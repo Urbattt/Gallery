@@ -1,0 +1,41 @@
+#myCarousel{
+ background-color:beige;
+  
+}
+
+#myCarousel img{ 
+height: 300px;
+margin-top: 35px;
+
+
+
+}
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px; 
+    color: cadetblue;
+    font-size: 20px;
+    
+}
+
+html {
+    text-align: center;
+}
+
+#image1{ 
+width: 50%;
+height: 25%;
+}
+.container
+{
+    text-align: center;
+    background-color: aqua;
+}
+
+
+
+
+
+
+
+
